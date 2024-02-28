@@ -1,0 +1,14 @@
+C:\Users\TeknikDonanim2022\Desktop\abc\bin\Debug\net8.0\abc.exe
+C:\Users\TeknikDonanim2022\Desktop\abc\bin\Debug\net8.0\abc.deps.json
+C:\Users\TeknikDonanim2022\Desktop\abc\bin\Debug\net8.0\abc.runtimeconfig.json
+C:\Users\TeknikDonanim2022\Desktop\abc\bin\Debug\net8.0\abc.dll
+C:\Users\TeknikDonanim2022\Desktop\abc\bin\Debug\net8.0\abc.pdb
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\abc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\abc.AssemblyInfoInputs.cache
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\abc.AssemblyInfo.cs
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\abc.csproj.CoreCompileInputs.cache
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\abc.dll
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\refint\abc.dll
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\abc.pdb
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\abc.genruntimeconfig.cache
+C:\Users\TeknikDonanim2022\Desktop\abc\obj\Debug\net8.0\ref\abc.dll
